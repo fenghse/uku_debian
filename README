@@ -1,6 +1,9 @@
 unblock_youku_privoxy_rules
 All the privoxy rules for unblock youku
 
+debian\
+Config and files for Privoxy on Debian, tested on Jessie
+
 opt\
 Config and files of Privoxy on Android, #80
 
